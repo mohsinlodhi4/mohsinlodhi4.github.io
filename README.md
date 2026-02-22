@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 - 💻 Currently building scalable **SaaS applications** and compute optimized systems  
-- 💳 Experienced in **Development & Cloud Platforms**  
+- 💳 Experienced in **Development | Devops | Cloud Platforms**  
 - 🚀 Working with **Node.js, Python, React, Vue, MongoDB, PostgreSQL, and TypeScript**  
 - 🧠 Learning **Advanced System Design & Distributed Systems**  
 - 🌍 Passionate about building production ready APIs and real-world products  
@@ -36,6 +36,7 @@
 - MongoDB
 - MySQL
 - PostgreSQL
+- Redis
 
 ### ⚙️ DevOps & Tools
 - Docker
@@ -50,26 +51,9 @@
 
 ## 📌 What I Focus On
 
-- Designing scalable backend systems  
-- Building subscription & billing architectures  
-- Database query optimization  
-- Multi-timezone application handling  
-- Clean, maintainable, production-ready code  
+- Designing and architecting scalable systems  
+- Ensuring High throughput and Low intency in API(s) 
+- Optimized database query, compute and caching
+- Integrating 3rd party API(s) while implementing standardized patterns for code re-usability, modularity and feature extension.
+- Clean, maintainable, production ready code  
 
----
-
-## 📈 Current Goals
-
-- Strengthening expertise in **System Design**
-- Exploring **AI automations in web applications**
-- Contributing to impactful open-source projects
-
----
-
-## 🤝 Let's Connect
-
-- 🌱 Always learning, always building
-
----
-
-⭐ If you like my work, feel free to explore my repositories!
